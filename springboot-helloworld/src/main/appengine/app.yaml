@@ -1,4 +1,4 @@
-service: java-app        # nombre del servicio, distinto si ya tienes PHP
+service: default
 runtime: java17
 instance_class: F1
 automatic_scaling:
